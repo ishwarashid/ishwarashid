@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing Web Development using the MERN stack<br>👯 I’m looking to collaborate on interesting and fun projects<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>💬 Ask me about anything related to Web Development or Programming<br>⚡ Fun fact: I once accidentally discovered a new feature in my favorite coding editor by randomly pressing keys during a particularly intense debugging session. Serendipity at its finest! ⌨️✨
+🔭 I’m currently doing Web Development using the MERN stack<br>👯 I’m looking to collaborate on interesting and fun projects<br>🌱 Enthusiastic about Artificial Intelligence and Machine Learning<br>💬 Ask me about anything related to Web Development or Programming<br>⚡ Fun fact: I once accidentally discovered a new feature in my favorite coding editor by randomly pressing keys during a particularly intense debugging session. Serendipity at its finest! ⌨️✨
 
 
 ## 🌐 Socials:
